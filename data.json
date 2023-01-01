@@ -1,0 +1,55 @@
+[
+    {
+        "name": "Egypt",
+        "detail": "Egypt detail",
+        "locations": [
+            {
+                "lat": "30.118834",
+                "lng": "31.349545",
+                "address": "Heliopolis"
+            },
+            {
+                "lat": "30.020940",
+                "lng": "31.454569",
+                "address": "New Cairo"
+            },
+            {
+                "lat": "30.061838",
+                "lng": "31.323496",
+                "address": "Nasr city"
+            }
+        ]
+    },
+    {
+        "name": "USA",
+        "detail": "USA detail",
+        "locations": [
+            {
+                "lat": "40.697983",
+                "lng": "-73.776651",
+                "address": "New York #1"
+            },
+            {
+                "lat": "40.877862",
+                "lng": "-74.045816",
+                "address": "New York #2"
+            }
+        ]
+    },
+    {
+        "name": "London",
+        "detail": "London detail",
+        "locations": [
+            {
+                "lat": "51.485820",
+                "lng": "-0.054975",
+                "address": "London #1"
+            },
+            {
+                "lat": "51.525800",
+                "lng": "-0.214637",
+                "address": "London #2"
+            }
+        ]
+    }
+]
